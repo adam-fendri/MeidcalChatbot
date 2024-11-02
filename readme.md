@@ -10,6 +10,8 @@ The assistant leverages several pre-trained and fine-tuned models, including:
 - **Gemma-2 Model**: A fine-tuned Gemma-2 language model, using QLoRA (4-bit quantization with LoRA parameters) for efficient inference.
 - **T5-Large Model**: A summarization model used to generate concise summaries of the conversation between the user and the assistant.
 
+![Medical Chatbot](./VoMedicalChatbot.png)
+
 ## Features
 
 - **Named Entity Recognition (NER)**: Detects and extracts medical entities such as age, height, and weight from the user input.
